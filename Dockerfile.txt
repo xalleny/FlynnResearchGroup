@@ -1,0 +1,7 @@
+
+FROM windowsservercore
+
+MAINTAINER xallen@umich.edu
+
+RUN AD9914.exe
+
